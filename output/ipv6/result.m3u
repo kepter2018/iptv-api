@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kepter2018/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.138:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-23 15:04:24
+http://livealone302.iqilu.com/iqilu/sdtv.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.138:5180/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://livealone302.iqilu.com/iqilu/sdtv.m3u8
